@@ -10,9 +10,15 @@ use Cookie;
 
 class LogoutController extends Controller
 {
-    public function logout()
+
+	/**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function index()
     {
-    	Auth::logout();
+        Auth::logout();
     	Session::flush();
 
     	return redirect('/login');

@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Auth::routes();
-Route::get('/logout', 'Auth\LogoutController@logout');
+Route::get('/logout', 'Auth\LogoutController@index');
 
 
 

@@ -62,33 +62,19 @@ class PropertyController extends Controller
      */
     public function store(Request $request)
     {
-        $Property = new Property();
+        Property::create($request->all());
 
-        $Property->NameBn      = $request->NameBn;
-        $Property->NameEn      = $request->NameEn;
-        $Property->Code        = $request->Code;
-        $Property->Established = $request->Established;
-        $Property->Title       = $request->Title;
-        $Property->Phone       = $request->Phone;
-        $Property->Email       = $request->Email;
-        $Property->Website     = $request->Website;
-        $Property->Address     = $request->Address;
-        $Property->Facebook    = $request->Facebook;
-        $Property->Youtube     = $request->Youtube;
-        $Property->Twitter     = $request->Twitter;
-        $Property->Logo        = $request->Logo;
-        $Property->Fevicon     = $request->Fevicon;
-        $Property->Location    = $request->Location;
-        $Property->Status      = $request->Status;
+        return back();
+        // $Property = new Property();
 
-        try {
-            $Property->save();
+        // try {
+        //     $Property->save();
 
-            return back();
-        } catch (Exception $e) {
-            $e->getMessage();
-            return back();
-        }
+        //     return back();
+        // } catch (Exception $e) {
+        //     $e->getMessage();
+        //     return back();
+        // }
     }
 
     /**

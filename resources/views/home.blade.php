@@ -9,7 +9,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item item-100vh active">
-                <img src="img/banner/banner-slider-1.jpg" alt="banner-slider-1">
+                <img src="/img/banner/banner-slider-1.jpg" alt="banner-slider-1">
                 <div class="carousel-caption banner-slider-inner">
                     <div class="banner-content container banner-content-left">
                         <h1 data-animation="animated fadeInDown delay-05s"><span>Find your </span> Dream House</h1>
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="item item-100vh">
-                <img src="img/banner/banner-slider-2.jpg" alt="banner-slider-2">
+                <img src="/img/banner/banner-slider-2.jpg" alt="banner-slider-2">
                 <div class="carousel-caption banner-slider-inner">
                     <div class="banner-content container banner-content-left">
                         <h1 data-animation="animated fadeInDown delay-1s"><span>Sweet Home For</span> Small Family</h1>
@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="item item-100vh">
-                <img src="img/banner/banner-slider-3.jpg" alt="banner-slider-3">
+                <img src="/img/banner/banner-slider-3.jpg" alt="banner-slider-3">
                 <div class="carousel-caption banner-slider-inner">
                     <div class="banner-content container banner-content-left">
                         <h1 data-animation="animated fadeInLeft delay-05s"><span>Best Place To</span> Find Home</h1>
@@ -166,13 +166,6 @@
         <div class="main-title">
             <h1>Featured Properties</h1>
         </div>
-        <ul class="list-inline-listing filters filters-listing-navigation">
-            <li class="active btn filtr-button filtr" data-filter="all">All</li>
-            <li data-filter="1" class="btn btn-inline filtr-button filtr">House</li>
-            <li data-filter="2" class="btn btn-inline filtr-button filtr">Office</li>
-            <li data-filter="3" class="btn btn-inline filtr-button filtr">Apartment</li>
-            <li data-filter="4" class="btn btn-inline filtr-button filtr">Residential</li>
-        </ul>
         <div class="row">
             <div class="filtr-container">
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12  filtr-item" data-category="1, 2, 3">
@@ -182,7 +175,7 @@
                             <div class="property-tag button alt featured">Featured</div>
                             <div class="property-tag button sale">For Sale</div>
                             <div class="property-price">$150,000</div>
-                            <img src="img/properties/properties-1.jpg" alt="fp" class="img-responsive">
+                            <img src="/img/properties/properties-1.jpg" alt="fp" class="img-responsive">
                             <div class="property-overlay">
                                 <a href="properties-details.html" class="overlay-link">
                                     <i class="fa fa-link"></i>
@@ -191,12 +184,12 @@
                                     <i class="fa fa-video-camera"></i>
                                 </a>
                                 <div class="property-magnify-gallery">
-                                    <a href="img/properties/properties-1.jpg" class="overlay-link">
+                                    <a href="/img/properties/properties-1.jpg" class="overlay-link">
                                         <i class="fa fa-expand"></i>
                                     </a>
 
-                                    <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                    <a href="img/properties/properties-3.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-3.jpg" class="hidden"></a>
                                 </div>
                             </div>
                         </div>
@@ -258,7 +251,7 @@
                             <div class="property-tag button alt featured">Featured</div>
                             <div class="property-tag button sale">For Sale</div>
                             <div class="property-price">$150,000</div>
-                            <img src="img/properties/properties-2.jpg" alt="fp" class="img-responsive">
+                            <img src="/img/properties/properties-2.jpg" alt="fp" class="img-responsive">
                             <div class="property-overlay">
                                 <a href="properties-details.html" class="overlay-link">
                                     <i class="fa fa-link"></i>
@@ -267,11 +260,11 @@
                                     <i class="fa fa-video-camera"></i>
                                 </a>
                                 <div class="property-magnify-gallery">
-                                    <a href="img/properties/properties-2.jpg" class="overlay-link">
+                                    <a href="/img/properties/properties-2.jpg" class="overlay-link">
                                         <i class="fa fa-expand"></i>
                                     </a>
-                                    <a href="img/properties/properties-4.jpg" class="hidden"></a>
-                                    <a href="img/properties/properties-3.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-4.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-3.jpg" class="hidden"></a>
                                 </div>
                             </div>
                         </div>
@@ -333,7 +326,7 @@
                             <div class="property-tag button alt featured">Featured</div>
                             <div class="property-tag button sale">For Sale</div>
                             <div class="property-price">$150,000</div>
-                            <img src="img/properties/properties-3.jpg" alt="fp" class="img-responsive">
+                            <img src="/img/properties/properties-3.jpg" alt="fp" class="img-responsive">
                             <div class="property-overlay">
                                 <a href="properties-details.html" class="overlay-link">
                                     <i class="fa fa-link"></i>
@@ -342,11 +335,11 @@
                                     <i class="fa fa-video-camera"></i>
                                 </a>
                                 <div class="property-magnify-gallery">
-                                    <a href="img/properties/properties-3.jpg" class="overlay-link">
+                                    <a href="/img/properties/properties-3.jpg" class="overlay-link">
                                         <i class="fa fa-expand"></i>
                                     </a>
-                                    <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                    <a href="img/properties/properties-1.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-1.jpg" class="hidden"></a>
                                 </div>
                             </div>
                         </div>
@@ -408,7 +401,7 @@
                             <div class="property-tag button alt featured">Featured</div>
                             <div class="property-tag button sale">For Sale</div>
                             <div class="property-price">$150,000</div>
-                            <img src="img/properties/properties-4.jpg" alt="fp" class="img-responsive">
+                            <img src="/img/properties/properties-4.jpg" alt="fp" class="img-responsive">
                             <div class="property-overlay">
                                 <a href="properties-details.html" class="overlay-link">
                                     <i class="fa fa-link"></i>
@@ -417,11 +410,11 @@
                                     <i class="fa fa-video-camera"></i>
                                 </a>
                                 <div class="property-magnify-gallery">
-                                    <a href="img/properties/properties-4.jpg" class="overlay-link">
+                                    <a href="/img/properties/properties-4.jpg" class="overlay-link">
                                         <i class="fa fa-expand"></i>
                                     </a>
-                                    <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                    <a href="img/properties/properties-3.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-3.jpg" class="hidden"></a>
                                 </div>
                             </div>
                         </div>
@@ -483,7 +476,7 @@
                             <div class="property-tag button alt featured">Featured</div>
                             <div class="property-tag button sale">For Sale</div>
                             <div class="property-price">$150,000</div>
-                            <img src="img/properties/properties-5.jpg" alt="fp" class="img-responsive">
+                            <img src="/img/properties/properties-5.jpg" alt="fp" class="img-responsive">
                             <div class="property-overlay">
                                 <a href="properties-details.html" class="overlay-link">
                                     <i class="fa fa-link"></i>
@@ -492,11 +485,11 @@
                                     <i class="fa fa-video-camera"></i>
                                 </a>
                                 <div class="property-magnify-gallery">
-                                    <a href="img/properties/properties-5.jpg" class="overlay-link">
+                                    <a href="/img/properties/properties-5.jpg" class="overlay-link">
                                         <i class="fa fa-expand"></i>
                                     </a>
-                                    <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                    <a href="img/properties/properties-3.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-3.jpg" class="hidden"></a>
                                 </div>
                             </div>
                         </div>
@@ -558,7 +551,7 @@
                             <div class="property-tag button alt featured">Featured</div>
                             <div class="property-tag button sale">For Sale</div>
                             <div class="property-price">$150,000</div>
-                            <img src="img/properties/properties-6.jpg" alt="fp" class="img-responsive">
+                            <img src="/img/properties/properties-6.jpg" alt="fp" class="img-responsive">
                             <div class="property-overlay">
                                 <a href="properties-details.html" class="overlay-link">
                                     <i class="fa fa-link"></i>
@@ -567,11 +560,11 @@
                                     <i class="fa fa-video-camera"></i>
                                 </a>
                                 <div class="property-magnify-gallery">
-                                    <a href="img/properties/properties-6.jpg" class="overlay-link">
+                                    <a href="/img/properties/properties-6.jpg" class="overlay-link">
                                         <i class="fa fa-expand"></i>
                                     </a>
-                                    <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                    <a href="img/properties/properties-3.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                    <a href="/img/properties/properties-3.jpg" class="hidden"></a>
                                 </div>
                             </div>
                         </div>
@@ -707,7 +700,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </div>
                                     </div>
-                                    <img src="img/properties/properties-4.jpg" alt="rp" class="img-responsive">
+                                    <img src="/img/properties/properties-4.jpg" alt="rp" class="img-responsive">
                                     <div class="property-overlay">
                                         <a href="properties-details.html" class="overlay-link">
                                             <i class="fa fa-link"></i>
@@ -716,11 +709,11 @@
                                             <i class="fa fa-video-camera"></i>
                                         </a>
                                         <div class="property-magnify-gallery">
-                                            <a href="img/properties/properties-4.jpg" class="overlay-link">
+                                            <a href="/img/properties/properties-4.jpg" class="overlay-link">
                                                 <i class="fa fa-expand"></i>
                                             </a>
-                                            <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                            <a href="img/properties/properties-3.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-3.jpg" class="hidden"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -779,7 +772,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </div>
                                     </div>
-                                    <img src="img/properties/properties-3.jpg" alt="rp" class="img-responsive">
+                                    <img src="/img/properties/properties-3.jpg" alt="rp" class="img-responsive">
                                     <div class="property-overlay">
                                         <a href="properties-details.html" class="overlay-link">
                                             <i class="fa fa-link"></i>
@@ -788,11 +781,11 @@
                                             <i class="fa fa-video-camera"></i>
                                         </a>
                                         <div class="property-magnify-gallery">
-                                            <a href="img/properties/properties-3.jpg" class="overlay-link">
+                                            <a href="/img/properties/properties-3.jpg" class="overlay-link">
                                                 <i class="fa fa-expand"></i>
                                             </a>
-                                            <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                            <a href="img/properties/properties-5.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-5.jpg" class="hidden"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -851,7 +844,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </div>
                                     </div>
-                                    <img src="img/properties/properties-2.jpg" alt="rp" class="img-responsive">
+                                    <img src="/img/properties/properties-2.jpg" alt="rp" class="img-responsive">
                                     <div class="property-overlay">
                                         <a href="properties-details.html" class="overlay-link">
                                             <i class="fa fa-link"></i>
@@ -860,11 +853,11 @@
                                             <i class="fa fa-video-camera"></i>
                                         </a>
                                         <div class="property-magnify-gallery">
-                                            <a href="img/properties/properties-2.jpg" class="overlay-link">
+                                            <a href="/img/properties/properties-2.jpg" class="overlay-link">
                                                 <i class="fa fa-expand"></i>
                                             </a>
-                                            <a href="img/properties/properties-1.jpg" class="hidden"></a>
-                                            <a href="img/properties/properties-5.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-1.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-5.jpg" class="hidden"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -923,7 +916,7 @@
                                             <i class="fa fa-star-o"></i>
                                         </div>
                                     </div>
-                                    <img src="img/properties/properties-1.jpg" alt="rp" class="img-responsive">
+                                    <img src="/img/properties/properties-1.jpg" alt="rp" class="img-responsive">
                                     <div class="property-overlay">
                                         <a href="properties-details.html" class="overlay-link">
                                             <i class="fa fa-link"></i>
@@ -932,11 +925,11 @@
                                             <i class="fa fa-video-camera"></i>
                                         </a>
                                         <div class="property-magnify-gallery">
-                                            <a href="img/properties/properties-1.jpg" class="overlay-link">
+                                            <a href="/img/properties/properties-1.jpg" class="overlay-link">
                                                 <i class="fa fa-expand"></i>
                                             </a>
-                                            <a href="img/properties/properties-2.jpg" class="hidden"></a>
-                                            <a href="img/properties/properties-5.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-2.jpg" class="hidden"></a>
+                                            <a href="/img/properties/properties-5.jpg" class="hidden"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -998,7 +991,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                     <div class="avatar">
-                                        <img src="img/avatar/avatar-1.jpg" alt="avatar-1" class="img-responsive">
+                                        <img src="/img/avatar/avatar-1.jpg" alt="avatar-1" class="img-responsive">
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
@@ -1040,7 +1033,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                     <div class="avatar">
-                                        <img src="img/avatar/avatar-2.jpg" alt="avatar-2" class="img-responsive">
+                                        <img src="/img/avatar/avatar-2.jpg" alt="avatar-2" class="img-responsive">
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
@@ -1082,7 +1075,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                     <div class="avatar">
-                                        <img src="img/avatar/avatar-4.jpg" alt="avatar-4" class="img-responsive">
+                                        <img src="/img/avatar/avatar-4.jpg" alt="avatar-4" class="img-responsive">
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
@@ -1124,7 +1117,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                     <div class="avatar">
-                                        <img src="img/avatar/avatar-3.jpg" alt="avatar-3" class="img-responsive">
+                                        <img src="/img/avatar/avatar-3.jpg" alt="avatar-3" class="img-responsive">
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 ">
